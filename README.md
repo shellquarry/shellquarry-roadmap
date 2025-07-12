@@ -1,39 +1,53 @@
-# 👋 Welcome to ShellQuarry
-A personal repository documenting my journey into cloud computing, DevOps, and hands-on technical learning
-Hi there! I'm building my journey toward becoming a **Cloud Engineer** and DevOps enthusiast.
+# 👋 Welcome to **ShellQuarry**
+
+> *"Digging deep into the world of Cloud, DevOps, and Modern Infrastructure."*
+
 ---
 
 ## 🚀 About Me
 
-- 🧠 Currently learning **Cloud Computing**, **Linux**, and **Git**
-- 🌩️ Exploring AWS, Terraform, Docker & CI/CD
-- 🔧 Practicing hands-on labs, building projects step by step
-- 💼 Goal: Land a remote international tech job
-- 🌍 From: India | Open to global remote opportunities
+- 🧠 **Currently Learning:** `Cloud Computing`, `Linux`, and `Git`  
+- ☁️ **Exploring:** `AWS`, `Terraform`, `Docker`, and `CI/CD` Pipelines  
+- 🛠 **Focus:** Hands-on labs, real-world projects, and continuous learning  
+- 🎯 **Goal:** Become a job-ready Cloud & DevOps Engineer  
+- 🌍 **Location:** India | Open to global remote opportunities  
 
 ---
 
-## 🛠 Tech I'm Exploring
+## 🧰 Tech Stack in Progress
 
-| Domain           | Tools & Skills                |
-|------------------|-------------------------------|
-| Cloud            | AWS (EC2, IAM, S3)            |
-| OS & Terminal    | Linux (Ubuntu), Shell Scripting |
-| DevOps Tools     | Git, GitHub, Docker, Terraform |
-| Productivity     | VS Code, Notion, Markdown     |
+| Domain          | Tools & Technologies                                |
+|-----------------|------------------------------------------------------|
+| ☁️ Cloud         | AWS (EC2, IAM, S3, etc.)                             |
+| 💻 OS & Terminal | Linux (Ubuntu), Bash, Shell Scripting               |
+| 🔧 DevOps Tools  | Git, GitHub, Docker, Terraform                      |
+| 🧪 CI/CD         | GitHub Actions (Learning Phase)                     |
+
+---
+
+## 📌 What's This Repository?
+
+This is a personal repository documenting my entire learning journey into Cloud & DevOps.
+
+You’ll find:
+- 📝 Notes & summaries  
+- ⚙️ Practice scripts and templates  
+- 🧪 Mini-projects and experiments  
+
+Everything is hands-on, practical, and beginner-friendly — building up from zero to job-ready.
 
 ---
 
-## 📅 Learning Roadmap
+## 🗂 Upcoming Content Plan
 
-I’ve broken my learning into clear phases:
-
-- ✅ **Ground Zero** – Setup, accounts, learning basics
-- 🔄 **Phase 1** – AWS, Linux, Git, Python (currently here)
-- 🔜 **Phase 2** – Projects + Certification prep
-- 🎯 **Goal** – Job-ready Cloud Engineer by 2026
+- [ ] AWS hands-on labs  
+- [ ] GitHub projects with Terraform & Docker  
+- [ ] CI/CD pipeline builds  
+- [ ] Resume & portfolio preparation  
+- [ ] Mock interview prep & job hunt log  
 
 ---
+
 
 ## 🔗 Connect with Me
 
